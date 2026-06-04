@@ -1,4 +1,4 @@
-# Adyasha Priyadarshini Portfolio
+# Adyasha Priyadarshini Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects, certifications, and interests in Cybersecurity, Software Development.
 
