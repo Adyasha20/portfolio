@@ -66,3 +66,6 @@ https://adyasha20.github.io/portfolio/
 
 No additional installation or dependencies are required.
 
+
+Thank you for visiting my portfolio repository.
+
