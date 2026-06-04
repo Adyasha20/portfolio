@@ -67,5 +67,11 @@ https://adyasha20.github.io/portfolio/
 No additional installation or dependencies are required.
 
 
-Thank you for visiting my portfolio repository.
+---
+
+### Thank You for Visiting!
+
+Feel free to connect with me through LinkedIn, GitHub, or email.
+
+
 
